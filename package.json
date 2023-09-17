@@ -1,0 +1,9 @@
+{
+    "name": "typescript-starter",
+    "version": "1.0.0",
+    "description": "A typescript project starter",
+    "bin": {
+        "tsstarter": "./index.js"
+    },
+    "license": "MIT"
+}
